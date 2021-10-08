@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cf1ce2a1-14d6-42a5-a07a-4cddcde77649" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/common/FreemarkerTemplates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/CurlDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/MarkdowDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ParamDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/genThings/GenCurl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/genThings/GenMdFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/curl.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/markdown.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GenCurlTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/GenMidFileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/common/FreemarkerTemplates.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/CurlDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/MarkdowDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/ParamDTO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/genThings/GenCurl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/genThings/GenMdFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/curl.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/markdown.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GenCurlTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/GenMidFileTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/genFile/GenMdFile.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yTII8jc2DDPqy1sTiHEYxJNVP9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.GenMidFileTest">
+    <configuration name="GenCurlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenCurlTest" />
+      <module name="tools" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenMidFileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenMidFileTest" />
+      <module name="tools" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenMidFileTest" />
+        <item itemvalue="Application.GenCurlTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf1ce2a1-14d6-42a5-a07a-4cddcde77649" name="Default Changelist" comment="" />
+      <created>1632269069109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632269069109</updated>
+      <workItem from="1632269070755" duration="577000" />
+      <workItem from="1632387844084" duration="2530000" />
+      <workItem from="1632466081606" duration="5568000" />
+      <workItem from="1632621560674" duration="4417000" />
+      <workItem from="1633681568815" duration="4529000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
