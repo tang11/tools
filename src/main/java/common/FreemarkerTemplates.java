@@ -18,7 +18,6 @@ public enum FreemarkerTemplates {
 
     MARKDOWN(getTemplate("/markdown.ftl"));
 
-
     Template template;
 
 

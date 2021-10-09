@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf1ce2a1-14d6-42a5-a07a-4cddcde77649" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/FreemarkerTemplates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/CurlDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/MarkdowDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dto/ParamDTO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/genThings/GenCurl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/genThings/GenMdFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/curl.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/markdown.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GenCurlTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/GenMidFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/common/FreemarkerTemplates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dto/CurlDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dto/MarkdowDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/dto/ParamDTO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/genThings/GenCurl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/genThings/GenMdFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/curl.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/markdown.ftl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/GenCurlTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/GenMidFileTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/genFile/GenMdFile.java" beforeDir="false" />
-    </list>
+    <list default="true" id="cf1ce2a1-14d6-42a5-a07a-4cddcde77649" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,17 +52,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.GenMidFileTest" />
@@ -107,6 +72,8 @@
       <workItem from="1632466081606" duration="5568000" />
       <workItem from="1632621560674" duration="4417000" />
       <workItem from="1633681568815" duration="4529000" />
+      <workItem from="1633692503391" duration="88000" />
+      <workItem from="1633744711746" duration="879000" />
     </task>
     <servers />
   </component>
