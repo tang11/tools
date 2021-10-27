@@ -15,5 +15,7 @@ public class MarkdowDTO {
     private String url;
     private String httpMethod;
 
+    private Boolean shown;
+
     private List<ParamDTO> requestParamList;
 }

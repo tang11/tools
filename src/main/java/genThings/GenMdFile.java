@@ -27,6 +27,7 @@ public class GenMdFile {
             ParamDTO paramDTO1 = new ParamDTO();
             paramDTO1.setName("address");
             paramDTO1.setType("String");
+            markdowDTO.setShown(true);
             List<ParamDTO> requestParamList = new ArrayList<>();
             requestParamList.add(paramDTO);
             requestParamList.add(paramDTO1);

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf1ce2a1-14d6-42a5-a07a-4cddcde77649" name="Default Changelist" comment="" />
+    <list default="true" id="cf1ce2a1-14d6-42a5-a07a-4cddcde77649" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/genThings/GenShortLink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dto/MarkdowDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dto/MarkdowDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/genThings/GenMdFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/genThings/GenMdFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/curl.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/curl.ftl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/markdown.ftl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/markdown.ftl" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +25,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1yTII8jc2DDPqy1sTiHEYxJNVP9" />
   <component name="ProjectViewState">
@@ -52,6 +66,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.GenMidFileTest" />
@@ -73,7 +98,8 @@
       <workItem from="1632621560674" duration="4417000" />
       <workItem from="1633681568815" duration="4529000" />
       <workItem from="1633692503391" duration="88000" />
-      <workItem from="1633744711746" duration="879000" />
+      <workItem from="1633744711746" duration="1765000" />
+      <workItem from="1635146557567" duration="2064000" />
     </task>
     <servers />
   </component>

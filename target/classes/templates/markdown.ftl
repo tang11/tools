@@ -12,6 +12,9 @@ ${(url)!''}
 ### 请求方式
 ${(httpMethod)!''}
 
+<#if shown==true>
+    如果shown为true,就显示这段，如果shown改为false,就不显示
+</#if>
 
 ### 请求参数
 | **参数名称** | **类型**|
