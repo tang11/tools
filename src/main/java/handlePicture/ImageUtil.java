@@ -1,7 +1,12 @@
+package handlePicture;
+
+import net.coobird.thumbnailator.Thumbnails;
+
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
+
 
 /**
  * @author shenli
@@ -9,8 +14,8 @@ import java.nio.charset.StandardCharsets;
  */
 public class ImageUtil {
     public static void main(String[] args) throws IOException {
-        String fromPic = "";
-        String toTxt = "";
+        String fromPic = "src/main/resources/17395495.jpeg";
+        String toTxt = "src/main/resources/BinaryImage.txt";
         BufferedImage bufferedImage = ImageIO.read(new File(fromPic));
         // 1.压缩图片
         BufferedImage compactImage = Thumbnails.of(bufferedImage).size(908, 909).asBufferedImage();
@@ -21,10 +26,8 @@ public class ImageUtil {
         // 4.输出到txt文本
         writeToTxt(binaryImage, toTxt);
 
-
-        /*保存图片
-        File newFile = new File("d:\\test5.jpg");
-        ImageIO.write(binaryImage, "jpg", newFile);*/
+        File newFile = new File("src/main/resources/test5.jpg");
+        ImageIO.write(binaryImage, "jpg", newFile);
     }
 
     /**
